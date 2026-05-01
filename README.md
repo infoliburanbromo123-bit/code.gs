@@ -1,2 +1,0 @@
-# code.gs
-code.gs
